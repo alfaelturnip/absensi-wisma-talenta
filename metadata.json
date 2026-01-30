@@ -1,0 +1,8 @@
+{
+  "description": "Aplikasi Absensi Online Wisma Talenta Jakarta dengan fitur Selfie dan Lokasi Real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "name": "ABSENSI WISMA TALENTA JAKARTA"
+}
