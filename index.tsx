@@ -25,6 +25,7 @@ const EMPLOYEES = [
   "Sri Lestari",
   "Lina",
   "Dina Agnesia"
+  "Rahmawati"
 ].sort((a, b) => a.localeCompare(b));
 
 // --- Types ---
